@@ -1,5 +1,5 @@
 {
-  "Tabs": ["vulnhub", "dvwa","test"],
+  "Tabs": ["vulnhub", "其他"],
   "vulnhub": {
     "targetName": "vegeta",
     "downLoadUrl": "https://example.com/download",
