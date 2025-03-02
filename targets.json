@@ -1,14 +1,15 @@
 {
   "Tabs": ["vulnhub"],
   "vulnhub": {
-    "targetName": "vegeta",
-    "downLoadUrl": "https://example.com/download",
-    "minMemory": "512M",
-    "config": {
-      "setting1": "value1",
-      "setting2": "value2dwadawd"
-    },
-    "description": " ",
-    "courseUrl": "https://example.com/course"
+    "vegeta": {
+      "downLoadUrl": "https://example.com/download",
+      "minMemory": "512M",
+      "config": {
+        "setting1": "value1",
+        "setting2": "value2dwadawd"
+      },
+      "description": " ",
+      "courseUrl": "https://example.com/download"
+    }
   }
 }
