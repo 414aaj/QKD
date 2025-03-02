@@ -1,7 +1,8 @@
 {
   "Tabs": ["vulnhub"],
-  "vulnhub": {
+  "targetsInfos": {
     "vegeta": {
+      "class": "vulnhub",
       "downLoadUrl": "https://example.com/download",
       "minMemory": "512M",
       "config": {
