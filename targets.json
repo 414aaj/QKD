@@ -1,0 +1,14 @@
+{
+  "Tabs": ["vulnhub", "dvwa"],
+  "vulnhub": {
+    "targetName": "vegeta",
+    "downLoadUrl": "https://example.com/download",
+    "minMemory": "512M",
+    "config": {
+      "setting1": "value1",
+      "setting2": "value2"
+    },
+    "description": " ",
+    "courseUrl": "https://example.com/course"
+  }
+}
