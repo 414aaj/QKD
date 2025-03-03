@@ -2,7 +2,7 @@
   "Tabs": ["vulnhub"],
   "targetsInfos": {
     "vegeta": {
-      "name":"vegeta",
+      "machineName":"vegeta",
       "class": "vulnhub",
       "githubDownLoadUrl": "https://example.com/download",
       "giteeDownLoadUrl": "https://test.com",
@@ -15,7 +15,7 @@
       "courseUrl": "https://example.com/download"
     },
     "test": {
-      "name":"vegeta",
+      "machineName":"vegeta",
       "class": "vulnhub",
       "githubDownLoadUrl": "https://example.com/download",
       "giteeDownLoadUrl": "https://test.com",
