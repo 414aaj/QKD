@@ -5,7 +5,7 @@
       "class": "vulnhub",
       "githubDownLoadUrl": "https://example.com/download",
       "giteeDownLoadUrl": "https://test.com",
-      "minMemory": "512M",
+      "minMemory": "vegeta:512M",
       "config": {
         "setting1": "value1",
         "setting2": "value2dwadawd"
