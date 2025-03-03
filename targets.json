@@ -3,7 +3,8 @@
   "targetsInfos": {
     "vegeta": {
       "class": "vulnhub",
-      "downLoadUrl": "https://example.com/download",
+      "githubDownLoadUrl": "https://example.com/download",
+      "giteeDownLoadUrl": "https://test.com",
       "minMemory": "512M",
       "config": {
         "setting1": "value1",
