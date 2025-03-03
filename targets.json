@@ -8,7 +8,7 @@
         "giteeDownLoadUrl": "https://test.com",
         "minMemory": "vegeta:512M",
         "config": {
-          "vegeta":"-m, 512,-hda, §containerPath§,-nic, user,hostfwd=tcp::§port§-:80,-loadvm, quickStart,-nographic",
+          "vegeta":"-m 512 -hda §containerPath§ -nic user hostfwd=tcp::§port§-:80 -loadvm quickStart -nographic",
           "setting2": "value2dwadawd"
         },
         "description": "测试",
