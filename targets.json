@@ -14,7 +14,7 @@
         "courseUrl": "https://example.com/download"
       },
       "test": {
-        "machineName":"vegeta",
+        "machineName":"test",
         "class": "vulnhub",
         "githubDownLoadUrl": "https://example.com/download",
         "giteeDownLoadUrl": "https://test.com",
