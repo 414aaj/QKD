@@ -7,9 +7,6 @@
         "githubDownLoadUrl": "https://example.com/download",
         "giteeDownLoadUrl": "https://test.com",
         "minMemory": "vegeta:512M",
-        "config": {
-          "vegeta":"-m 512 -hda §containerPath§ -nic user,hostfwd=tcp::§port§-:80 -loadvm quickStart -nographic"
-        },
         "description": "测试",
         "courseUrl": "https://example.com/download"
       },
@@ -19,10 +16,6 @@
         "githubDownLoadUrl": "https://example.com/download",
         "giteeDownLoadUrl": "https://test.com",
         "minMemory": "vegeta:512M",
-        "config": {
-          "setting1": "value1",
-          "setting2": "value2dwadawd"
-        },
         "description": "测试",
         "courseUrl": "https://example.com/download"
       }
